@@ -1,7 +1,3 @@
-Here’s your improved documentation with corrected spelling, enhanced formatting, and **no changes to the content**. I made it cleaner and more professional for readers while keeping the original message intact:
-
----
-
 # Decision Tree Algorithms Implementation
 
 ## Introduction
